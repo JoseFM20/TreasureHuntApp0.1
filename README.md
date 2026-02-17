@@ -7,8 +7,8 @@ Interactive mobile scavenger hunt app where users capture photos and videos to f
 Clone and run the project:
 
 ```bash
-git clone https://github.com/JoseFM20/treasure-hunt-app.git
-cd treasure-hunt-app
+git clone https://github.com/JoseFM20/TreasureHuntApp0.1.git
+cd TreasureHuntApp0.1
 npm install
 npm start
 ```
